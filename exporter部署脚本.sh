@@ -1,7 +1,7 @@
 #!/bin/bash
 
+echo "===注意对rabbitmq的操作要在此部署前单独处理，见下方注释==="
 echo "===注意，监控安装包请放在/root目录下==="
-echo "===注意，先停止rabbitmq和程序==="
 
 deploy_ip=""
 mysql_pass=""
